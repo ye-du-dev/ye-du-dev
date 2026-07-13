@@ -211,7 +211,7 @@
         <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="900">
           <text x="108" y="320" font-size="86" fill="#FFC700" letter-spacing="-4">Y</text>
           <text x="176" y="320" font-size="86" fill="#FFFFFF" letter-spacing="-4">D</text>
-          <text x="254" y="320" font-size="86" fill="#FFE066" letter-spacing="-4">C</text>
+          <text x="244" y="320" font-size="86" fill="#FFE066" letter-spacing="-4">C</text>
           <text x="108" y="320" font-size="86" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="1.5" letter-spacing="-4">YDC</text>
         </g>
 
