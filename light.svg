@@ -1,43 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg"
   width="100%" viewBox="0 0 1180 610" preserveAspectRatio="xMidYMid meet"
-  role="img" aria-labelledby="l2Title l2Desc">
-  <title id="l2Title">Yellow Duck Coders GitHub profile banner</title>
-  <desc id="l2Desc">Animated Yellow Duck Coders developer profile banner with a premium duck illustration, terminal profile panel, skills, and contact links.</desc>
+  role="img" aria-labelledby="l7Title l7Desc">
+  <title id="l7Title">Yellow Duck Coders GitHub profile banner</title>
+  <desc id="l7Desc">Animated Yellow Duck Coders developer profile banner with a branded YDC monogram tech visual on the left, terminal profile panel on the right, and animated skills.</desc>
 
   <defs>
-    <linearGradient id="l2Background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="l7Background" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#FFFFFF"/>
       <stop offset=".55" stop-color="#FCFCFA"/>
-      <stop offset="1" stop-color="#F1F2EE"/>
+      <stop offset="1" stop-color="#F2F3EE"/>
     </linearGradient>
-    <linearGradient id="l2Panel" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="l7Panel" x1="0" y1="0" x2="0" y2="1">
       <stop stop-color="#FCFCFA" stop-opacity=".98"/>
       <stop offset="1" stop-color="#F5F5F1" stop-opacity=".98"/>
     </linearGradient>
-    <linearGradient id="l2Border" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="l7Border" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#111216" stop-opacity=".18"/>
       <stop offset=".48" stop-color="#FFC700" stop-opacity=".52"/>
       <stop offset="1" stop-color="#111216" stop-opacity=".18"/>
     </linearGradient>
-    <linearGradient id="l2Reflection" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="l7Reflection" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#111216" stop-opacity="0"/>
       <stop offset=".5" stop-color="#111216" stop-opacity=".12"/>
       <stop offset="1" stop-color="#111216" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="l2Glow">
+    <radialGradient id="l7Glow">
       <stop stop-color="#FFC700" stop-opacity=".18"/>
       <stop offset=".55" stop-color="#FFC700" stop-opacity=".07"/>
       <stop offset="1" stop-color="#FFC700" stop-opacity="0"/>
     </radialGradient>
-    <filter id="l2SoftGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
+    <filter id="l7SoftGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4.2" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="l2Outer"><rect width="1180" height="610" rx="28"/></clipPath>
-    <clipPath id="l2LeftClip"><rect x="30" y="34" width="392" height="542" rx="24"/></clipPath>
-    <clipPath id="l2RightClip"><rect x="446" y="34" width="704" height="542" rx="24"/></clipPath>
+    <clipPath id="l7Outer"><rect width="1180" height="610" rx="28"/></clipPath>
+    <clipPath id="l7LeftClip"><rect x="30" y="34" width="392" height="542" rx="24"/></clipPath>
+    <clipPath id="l7RightClip"><rect x="446" y="34" width="704" height="542" rx="24"/></clipPath>
 
-    <clipPath id="l2RoleClip1">
+    <clipPath id="l7RoleClip1">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;246.60000000000002;246.60000000000002;0;0"
@@ -45,7 +45,7 @@
       </rect>
     </clipPath>
 
-    <clipPath id="l2RoleClip2">
+    <clipPath id="l7RoleClip2">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;298.1;298.1;0;0"
@@ -53,7 +53,7 @@
       </rect>
     </clipPath>
 
-    <clipPath id="l2RoleClip3">
+    <clipPath id="l7RoleClip3">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;246.60000000000002;246.60000000000002;0;0"
@@ -61,7 +61,7 @@
       </rect>
     </clipPath>
 
-    <clipPath id="l2RoleClip4">
+    <clipPath id="l7RoleClip4">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;210;210;0;0"
@@ -69,7 +69,7 @@
       </rect>
     </clipPath>
 
-    <clipPath id="l2RoleClip5">
+    <clipPath id="l7RoleClip5">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;226.0;226.0;0;0"
@@ -77,7 +77,7 @@
       </rect>
     </clipPath>
 
-    <clipPath id="l2RoleClip6">
+    <clipPath id="l7RoleClip6">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;308.40000000000003;308.40000000000003;0;0"
@@ -85,7 +85,7 @@
       </rect>
     </clipPath>
 
-    <clipPath id="l2RoleClip7">
+    <clipPath id="l7RoleClip7">
       <rect x="500" y="195" width="0" height="28">
         <animate attributeName="width" dur="35s" repeatCount="indefinite"
           values="0;0;210;210;0;0"
@@ -94,10 +94,10 @@
     </clipPath>
   </defs>
 
-  <g clip-path="url(#l2Outer)">
-    <rect width="1180" height="610" fill="url(#l2Background)"/>
+  <g clip-path="url(#l7Outer)">
+    <rect width="1180" height="610" fill="url(#l7Background)"/>
 
-    <circle cx="126" cy="100" r="225" fill="url(#l2Glow)">
+    <circle cx="126" cy="100" r="225" fill="url(#l7Glow)">
       <animate attributeName="cx" values="126;192;126" dur="10s" repeatCount="indefinite"/>
       <animate attributeName="cy" values="100;140;100" dur="12s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".72;1;.72" dur="6s" repeatCount="indefinite"/>
@@ -131,30 +131,30 @@
       stroke="#111216" stroke-opacity=".10"/>
     <rect x="450" y="40" width="704" height="542" rx="24" fill="#000000" opacity=".08"/>
     <rect x="446" y="34" width="704" height="542" rx="24"
-      fill="url(#l2Panel)"
+      fill="url(#l7Panel)"
       stroke="#111216" stroke-opacity=".10"/>
 
     <rect x="30" y="34" width="392" height="542" rx="24"
-      fill="none" stroke="url(#l2Border)" stroke-width="1.2"
+      fill="none" stroke="url(#l7Border)" stroke-width="1.2"
       stroke-dasharray="220 760">
       <animate attributeName="stroke-dashoffset" values="0;-980" dur="8s" repeatCount="indefinite"/>
     </rect>
     <rect x="446" y="34" width="704" height="542" rx="24"
-      fill="none" stroke="url(#l2Border)" stroke-width="1.2"
+      fill="none" stroke="url(#l7Border)" stroke-width="1.2"
       stroke-dasharray="310 940">
       <animate attributeName="stroke-dashoffset" values="0;-1250" dur="9s" repeatCount="indefinite"/>
     </rect>
 
-    <g clip-path="url(#l2LeftClip)">
+    <g clip-path="url(#l7LeftClip)">
       <polygon points="-180,34 -20,34 280,576 120,576"
-        fill="url(#l2Reflection)" opacity=".34">
+        fill="url(#l7Reflection)" opacity=".34">
         <animateTransform attributeName="transform" type="translate"
           values="0 0;580 0" dur="9.5s" repeatCount="indefinite"/>
       </polygon>
     </g>
-    <g clip-path="url(#l2RightClip)">
+    <g clip-path="url(#l7RightClip)">
       <polygon points="260,34 450,34 770,576 580,576"
-        fill="url(#l2Reflection)" opacity=".25">
+        fill="url(#l7Reflection)" opacity=".25">
         <animateTransform attributeName="transform" type="translate"
           values="0 0;920 0" dur="11s" repeatCount="indefinite"/>
       </polygon>
@@ -164,25 +164,21 @@
     <g>
       <text x="56" y="70" fill="#707680"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace"
-        font-size="11.5" font-weight="700" letter-spacing="1.6">
-        YDC // BUILT TO SCALE
-      </text>
+        font-size="11.5" font-weight="700" letter-spacing="1.6">YDC // BUILT TO SCALE</text>
       <circle cx="389" cy="64" r="4" fill="#FFC700">
         <animate attributeName="opacity" values=".35;1;.35" dur="2.1s" repeatCount="indefinite"/>
       </circle>
       <line x1="56" y1="88" x2="396" y2="88"
         stroke="#111216" stroke-opacity=".10"/>
 
-      
       <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace"
          fill="#707680" opacity=".30">
-        <text x="56" y="124" font-size="11.5">[boot] ydc.duck.profile = ready</text>
-        <text x="56" y="144" font-size="11.5">[stack] web • mobile • cloud • ai</text>
-        <text x="56" y="164" font-size="11.5">[mode] premium developer identity</text>
+        <text x="56" y="124" font-size="11.5">[boot] ydc.identity = active</text>
+        <text x="56" y="144" font-size="11.5">[style] brand-first tech composition</text>
+        <text x="56" y="164" font-size="11.5">[palette] yellow • white • black</text>
       </g>
-    
 
-      <g clip-path="url(#l2LeftClip)">
+      <g clip-path="url(#l7LeftClip)">
         <rect x="38" y="186" width="376" height="38" fill="#FFC700" opacity="0">
           <animate attributeName="y" values="186;476;186" dur="6s" repeatCount="indefinite"/>
           <animate attributeName="opacity" values="0;.08;0" dur="6s" repeatCount="indefinite"/>
@@ -195,74 +191,93 @@
       </g>
 
       
-      <g filter="url(#l2SoftGlow)">
-        <animateTransform attributeName="transform" type="translate"
-          values="0 0;0 -6;0 0" dur="5.8s" repeatCount="indefinite"/>
+      <g filter="url(#l7SoftGlow)">
+        <rect x="64" y="182" width="324" height="214" rx="26"
+          fill="#F7F7F4" fill-opacity=".99"
+          stroke="#111216" stroke-opacity=".10"/>
+        <rect x="64" y="182" width="324" height="44" rx="26"
+          fill="#111216" fill-opacity=".028"/>
+        <circle cx="88" cy="205" r="4" fill="#111216" opacity=".22"/>
+        <circle cx="104" cy="205" r="4" fill="#FFC700" opacity=".76"/>
+        <circle cx="120" cy="205" r="4" fill="#111216" opacity=".16"/>
+        <text x="226" y="209" text-anchor="middle" fill="#707680"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace"
+          font-size="11.2" font-weight="650">ydc://brand-core</text>
 
-        <ellipse cx="210" cy="398" rx="115" ry="18" fill="#FFC700" opacity=".10"/>
-        <ellipse cx="210" cy="394" rx="98" ry="11" fill="#111216" opacity=".05"/>
+        <rect x="86" y="238" width="280" height="112" rx="20"
+          fill="#111216" fill-opacity=".018"
+          stroke="#FFC700" stroke-opacity=".34"/>
 
-        <path d="M110 286 L77 262 L89 308 Z"
-          fill="#F2F1EA" stroke="#1A1C20" stroke-opacity=".45" stroke-width="2"/>
+        <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="900">
+          <text x="108" y="320" font-size="86" fill="#FFC700" letter-spacing="-4">Y</text>
+          <text x="176" y="320" font-size="86" fill="#111216" letter-spacing="-4">D</text>
+          <text x="254" y="320" font-size="86" fill="#E2AF00" letter-spacing="-4">C</text>
+          <text x="108" y="320" font-size="86" fill="none" stroke="#111216" stroke-opacity=".05" stroke-width="1.5" letter-spacing="-4">YDC</text>
+        </g>
 
-        <ellipse cx="202" cy="292" rx="98" ry="63"
-          fill="#FFFDF5" fill-opacity=".98"
-          stroke="#1A1C20" stroke-opacity=".18" stroke-width="2.2"/>
+        <!-- subtle technical accents without green -->
+        <g stroke="#FFC700" stroke-opacity=".7" stroke-width="2" stroke-linecap="round" fill="none">
+          <path d="M109 334 H140 V347 H156">
+            <animate attributeName="stroke-opacity" values=".3;.85;.3" dur="3.2s" repeatCount="indefinite"/>
+          </path>
+          <path d="M329 334 H344 V303 H362">
+            <animate attributeName="stroke-opacity" values=".85;.3;.85" dur="3.8s" repeatCount="indefinite"/>
+          </path>
+          <path d="M223 238 V220">
+            <animate attributeName="stroke-opacity" values=".3;.8;.3" dur="2.8s" repeatCount="indefinite"/>
+          </path>
+          <path d="M223 350 V370">
+            <animate attributeName="stroke-opacity" values=".8;.3;.8" dur="2.9s" repeatCount="indefinite"/>
+          </path>
+        </g>
+        <g>
+          <circle cx="156" cy="347" r="4.2" fill="#FFC700">
+            <animate attributeName="r" values="3.2;4.8;3.2" dur="2.6s" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="362" cy="303" r="4.2" fill="#FFC700">
+            <animate attributeName="r" values="4.8;3.2;4.8" dur="2.9s" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="223" cy="220" r="4.2" fill="#111216">
+            <animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="223" cy="370" r="4.2" fill="#111216">
+            <animate attributeName="opacity" values="1;.3;1" dur="2.7s" repeatCount="indefinite"/>
+          </circle>
+        </g>
 
-        <path d="M146 287 C158 253 228 250 265 286 C244 316 218 329 170 323 C153 317 145 306 146 287 Z"
-          fill="#ECEBE3" fill-opacity=".95"
-          stroke="#1A1C20" stroke-opacity=".12" stroke-width="1.8"/>
+        <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace">
+          <rect x="92" y="360" width="88" height="22" rx="11"
+            fill="#111216" fill-opacity=".035"
+            stroke="#111216" stroke-opacity=".08"/>
+          <text x="136" y="374" text-anchor="middle" fill="#34373D" font-size="10.4">WEB • CLOUD</text>
 
-        <path d="M232 270 C242 254 252 247 264 242 C260 260 261 274 268 290 C255 291 245 286 236 279 C232 276 230 273 232 270 Z"
-          fill="#F2F1EA" fill-opacity=".92"
-          stroke="#1A1C20" stroke-opacity=".12" stroke-width="1.4"/>
+          <rect x="183" y="360" width="80" height="22" rx="11"
+            fill="#111216" fill-opacity=".035"
+            stroke="#111216" stroke-opacity=".08"/>
+          <text x="223" y="374" text-anchor="middle" fill="#34373D" font-size="10.4">MOBILE</text>
 
-        <circle cx="281" cy="229" r="34"
-          fill="#FFFDF5" fill-opacity=".99"
-          stroke="#1A1C20" stroke-opacity=".18" stroke-width="2.2"/>
-
-        <path d="M252 248 C247 260 248 273 258 286 C247 288 236 286 230 280 C226 268 231 256 252 248 Z"
-          fill="#F2F1EA" fill-opacity=".90" opacity=".82"/>
-
-        <polygon points="304,223 357,244 304,260"
-          fill="#FFC700" fill-opacity=".98"
-          stroke="#1A1C20" stroke-opacity=".12" stroke-width="1.4"/>
-
-        <path d="M305 238 C319 237 333 239 344 244 C333 249 319 250 305 249 Z"
-          fill="#D9AA00" fill-opacity=".92"/>
-
-        <circle cx="287" cy="225" r="3.9" fill="#111216" opacity=".9"/>
-        <circle cx="288.2" cy="223.7" r="1.15" fill="#FFFFFF" opacity=".95"/>
-
-        <path d="M182 349 L176 388" stroke="#1A1C20" stroke-opacity=".26" stroke-width="3.1" stroke-linecap="round"/>
-        <path d="M205 349 L214 388" stroke="#1A1C20" stroke-opacity=".26" stroke-width="3.1" stroke-linecap="round"/>
-        <path d="M167 390 H192" stroke="#FFC700" stroke-opacity=".8" stroke-width="3" stroke-linecap="round"/>
-        <path d="M205 390 H228" stroke="#FFC700" stroke-opacity=".8" stroke-width="3" stroke-linecap="round"/>
-
-        <path d="M120 256 C145 235 195 222 249 231"
-          fill="none" stroke="#111216" stroke-opacity=".07" stroke-width="2"/>
-        <path d="M118 329 C145 346 201 351 262 336"
-          fill="none" stroke="#111216" stroke-opacity=".06" stroke-width="2"/>
-
-        <animate attributeName="opacity" values=".93;1;.93" dur="3.6s" repeatCount="indefinite"/>
+          <rect x="266" y="360" width="96" height="22" rx="11"
+            fill="#111216" fill-opacity=".035"
+            stroke="#111216" stroke-opacity=".08"/>
+          <text x="314" y="374" text-anchor="middle" fill="#34373D" font-size="10.4">AI • DEVOPS</text>
+        </g>
       </g>
 
       <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace">
-        <text x="56" y="460" fill="#FFC700" font-size="11.8" font-weight="700">› yellow duck coders</text>
-        <text x="56" y="485" fill="#34373D" font-size="14.5" font-weight="700">Web • Mobile • Cloud • AI</text>
-        <text x="56" y="507" fill="#707680" font-size="11.3">Scalable digital products with modern engineering</text>
+        <text x="64" y="432" fill="#FFC700" font-size="11.6" font-weight="700" letter-spacing=".8">YDC ENGINEERING SYSTEM</text>
+        <text x="64" y="463" fill="#34373D" font-size="25" font-weight="800" letter-spacing="-.35">Build. Scale. Automate.</text>
+        <text x="64" y="491" fill="#707680" font-size="11.2" font-weight="650" letter-spacing=".35">WEB • MOBILE • CLOUD • AI</text>
       </g>
-    
 
       <rect x="56" y="522" width="340" height="28" rx="12"
         fill="#111216" fill-opacity=".035"
         stroke="#111216" stroke-opacity=".10"/>
       <text x="74" y="540" fill="#34373D"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace"
-        font-size="11.4" font-weight="650">ye-du-dev</text>
-      <text x="172" y="540" fill="#707680"
+        font-size="11.2" font-weight="650">ye-du-dev</text>
+      <text x="160" y="540" fill="#707680"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace"
-        font-size="10.6">product engineering • automation • scale</text>
+        font-size="10.2">web • mobile • cloud • AI</text>
     </g>
 
     <!-- Right panel -->
@@ -301,7 +316,7 @@
       <g opacity="1">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="1;1;0;0" keyTimes="0;0.1280;0.1380;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip1)">Full Stack Development</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip1)">Full Stack Development</text>
         <rect x="723.4" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
@@ -311,7 +326,7 @@
       <g opacity="0">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="0;0;1;1;0;0" keyTimes="0;0.1429;0.1489;0.2709;0.2809;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip2)">Web Application Development</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip2)">Web Application Development</text>
         <rect x="771.9" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
@@ -321,7 +336,7 @@
       <g opacity="0">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="0;0;1;1;0;0" keyTimes="0;0.2857;0.2917;0.4137;0.4237;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip3)">Mobile App Development</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip3)">Mobile App Development</text>
         <rect x="723.4" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
@@ -331,7 +346,7 @@
       <g opacity="0">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="0;0;1;1;0;0" keyTimes="0;0.4286;0.4346;0.5566;0.5666;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip4)">Cloud &amp; DevOps</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip4)">Cloud &amp; DevOps</text>
         <rect x="645.8" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
@@ -341,7 +356,7 @@
       <g opacity="0">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="0;0;1;1;0;0" keyTimes="0;0.5714;0.5774;0.6994;0.7094;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip5)">AI-Powered Solutions</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip5)">AI-Powered Solutions</text>
         <rect x="704.0" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
@@ -351,7 +366,7 @@
       <g opacity="0">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="0;0;1;1;0;0" keyTimes="0;0.7143;0.7203;0.8423;0.8523;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip6)">AI Integrations &amp; Automation</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip6)">AI Integrations &amp; Automation</text>
         <rect x="781.6" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
@@ -361,7 +376,7 @@
       <g opacity="0">
         <animate attributeName="opacity" dur="35s" repeatCount="indefinite"
           values="0;0;1;1;0;0" keyTimes="0;0.8571;0.8631;0.9851;0.9951;1"/>
-        <text x="500" y="216" clip-path="url(#l2RoleClip7)">Custom AI Agents</text>
+        <text x="500" y="216" clip-path="url(#l7RoleClip7)">Custom AI Agents</text>
         <rect x="665.2" y="199" width="7" height="19" rx="1.5" fill="#FFC700">
           <animate attributeName="opacity" values="1;1;0;0;1"
             keyTimes="0;.42;.43;.92;1" dur=".9s" repeatCount="indefinite"/>
